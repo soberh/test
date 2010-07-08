@@ -1,0 +1,9 @@
+<html>
+<body>test1
+name1=$name
+name2=${name},
+<hr/>
+code1=$code
+code2=$!code,
+</body>
+<html>
